@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "event-manager",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
