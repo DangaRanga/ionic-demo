@@ -1,0 +1,8 @@
+.landing_image{
+    width: 200px;
+    border-radius: 10px;
+}
+
+.landing_content p{
+    width: 50%;
+}
